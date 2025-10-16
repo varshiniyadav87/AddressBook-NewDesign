@@ -26,19 +26,18 @@ This project demonstrates the use of **structures, file handling, string validat
 - **Validation using `<ctype.h>`**  
 - **Loops and conditionals** for user interaction
 
----
 
 ## 🧩 Project Structure
 
 AddressBook-NewDesign/
-├── main.c
-├── contact.c
-├── contact.h
-├── contact.csv
-├── file.c
-├── main.c
-├── README.md
-└── validation.c
+   - main.c
+   - contact.c
+   - contact.h
+   - contact.csv
+   - file.c
+   - main.c
+   - README.md
+   - validation.c
 
 
 ## ⚙️ How to Compile and Run
